@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-[Demo Link]()
+[Demo Link](https://raw.githack.com/Takhmina175/Clothing-Store-Template/main/index.html)
 
 
 👤 **Takhmina Makhkamova**
