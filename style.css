@@ -21,7 +21,7 @@ body {
   background-image: linear-gradient(to left top, #ffc0cb, #fcd0e2, #f8f1fc);
   margin: 0 auto;
   height: 71vh;
-  width: 98vw;
+  width: 100vw;
 }
 .navbar {
   display: grid;
